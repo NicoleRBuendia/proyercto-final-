@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');</style>
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.tamlogo {
+    width: 170px;
+}
+
+.encabezado {
+    border-top: 20px solid #c1101a;
+    background-color: #fafafa;
+}
+
+.fuentesNav{
+    font-size: 20px
+    text-transform: uppercase;
+    padding-left: 15px;
+}
+
+.fuentesNav a:hover {
+    background-color: #c1101a;
+    color: #fafafa;
+}
